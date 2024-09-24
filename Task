@@ -9,6 +9,6 @@
 
    [Add custom metrics to FastAPI Server with prometheus_client | Python Application Monitoring]
 
-2] Overall Activity (python matrics) showing Grafana Dashboard after that do SLD Hierarchy.
+2] Overall Activity (python matrics) showing Grafana Dashboard after that do SLD Hierarchy. [Single Line Diagram]
 
 3] Grafana White label for [IAM, KIAM, IESG]
