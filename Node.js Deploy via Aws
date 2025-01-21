@@ -1,0 +1,13 @@
+#curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+#. ~/.nvm/nvm.sh
+##nvm install 16
+##nvm --version
+nvm install node
+yum install update -y
+yum install git -y
+git version
+git clone https://github.com/rajani103/nodejs-on-ec2
+#cd nodejs-on-ec2
+#ls -ltr
+npm install 
+#node index.js
